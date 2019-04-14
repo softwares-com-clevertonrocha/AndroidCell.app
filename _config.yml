@@ -1,0 +1,15 @@
+name: Kodular
+title: Kodular
+description: Drag and Drop Android App Creator. No coding required!
+
+social:
+  twitter: https://twitter.com/KodularIO
+  fb: https://www.facebook.com/Kodular
+  github: https://github.com/Kodular
+  gplus: https://plus.google.com/111643344046547332656
+  telegram: https://telegram.me/Kodular
+  instagram: https://instagram.com/Kodular
+
+plugins:
+  - jekyll-redirect-from
+  - jekyll-sitemap
